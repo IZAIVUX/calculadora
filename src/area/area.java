@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package calculadora;
+package area;
 
 /**
  *
  * @author emjuc
  */
-public class Calculadora {
+public class area {
 
     /**
      * @param args the command line arguments
